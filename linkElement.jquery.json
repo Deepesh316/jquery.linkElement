@@ -1,0 +1,33 @@
+{
+    "name": "linkElement",
+    "title": "linkElement jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Deepesh Kumar R",
+        "url": "http://deepeshkumarr.com"
+    },
+    "maintainers": [
+        {
+            "name": "Deepesh Kumar R",
+            "email": "deepeshkumarr316@gmail.com",
+            "url": "http://deepeshkumarr.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Deepesh316/jquery.linkElement/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/Deepesh316/jquery.linkElement",
+    "docs": "https://github.com/Deepesh316/jquery.linkElement",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
